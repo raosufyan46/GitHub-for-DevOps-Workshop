@@ -16,3 +16,17 @@ git restore testing.py
 ls
 git status
 clear
+clear
+git status
+git add git_commands.txt
+git status
+git commit -m "added git commands"
+git status
+clear
+git remote add origin https://github.com/raosufyan46/GitHub-for-DevOps-Workshop.git
+git remote -v
+git status
+clear
+git push origin master
+git remote -v
+clear
