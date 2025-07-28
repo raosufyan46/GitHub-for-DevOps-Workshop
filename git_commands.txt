@@ -1,0 +1,18 @@
+git commit -m "added testing files"
+git config --global raosufyan84@gmail.com
+git config --global "raosufyan84@gmail.com"
+git config --global "Rao Sufyan"
+git config --global user.name "Rao Sufyan"
+git config --global user.email "raosufyan84@gmail.com"
+git commit -m "added testing files"
+git status
+git add testing.py
+git status
+git commit -m "added testing files"
+git status
+rm testing.py
+git status
+git restore testing.py
+ls
+git status
+clear
